@@ -1,0 +1,7 @@
+C:\Users\Lirian\source\repos\Vetores\obj\Debug\Vetores.csprojAssemblyReference.cache
+C:\Users\Lirian\source\repos\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Lirian\source\repos\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\Lirian\source\repos\Vetores\bin\Debug\Vetores.exe
+C:\Users\Lirian\source\repos\Vetores\bin\Debug\Vetores.pdb
+C:\Users\Lirian\source\repos\Vetores\obj\Debug\Vetores.exe
+C:\Users\Lirian\source\repos\Vetores\obj\Debug\Vetores.pdb
